@@ -1,0 +1,19 @@
+body {
+  background-color: #1b1717;
+  text-align: center;
+}
+
+h1 {
+  color: white;
+  padding: 25px;
+}
+
+#searchBox {
+  height: 43px;
+  border-radius: 10px;
+  padding: 0 15px;
+}
+
+img {
+  padding: 5px;
+}
